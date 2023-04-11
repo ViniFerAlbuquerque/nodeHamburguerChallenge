@@ -4,7 +4,7 @@
 <h1 align="center">  Desafio Node - 1 :</h1>
 
 
-<h2 align="center">:rocket: Sobre o desafio<h2>
+<h2 align="center">:rocket: Sobre o desafio:<h2>
 
 Crie uma aplicação que fará o cadastro dos pedidos de uma hamburgueria, e você deve utilizar [Node](https://nodejs.org/en/) e [Express](https://expressjs.com/pt-br/).
 
