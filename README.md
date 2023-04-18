@@ -1,5 +1,5 @@
 <h1 align="center"> DevClub <h1>
-<h2 align="center">Atividade proposta pelo professor do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, Rodolfo Mori<h2>
+<h2 align="center">Atividade proposta pelo professor do <a href="https://rodolfomori.com.br/devclub">DevClub</a>, Rodolfo Mori!<h2>
 
 <h1 align="center">  Desafio Node - 1</h1>
 
